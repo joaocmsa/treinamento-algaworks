@@ -1,0 +1,13 @@
+package com.joaocarlos.estudo.treinamento;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TreinamentoAlgaworksApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TreinamentoAlgaworksApplication.class, args);
+	}
+
+}
